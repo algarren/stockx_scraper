@@ -1,0 +1,1 @@
+Using Git in VS Code to document progress of a webs scraper for StockX.
